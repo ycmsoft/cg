@@ -1,9 +1,9 @@
 # CSE 160 - Assignment 0 
-Name: Alexander Bateman
-Email: arbatema@ucsc.edu
+Name: Alexander Bateman  
+Email: arbatema@ucsc.edu  
 
-Live Demo: https://ycmsoft.github.io/cg/src/asgn0.html
-Vector Tests: https://ycmsoft.github.io/cg/lib/vectorTests.html
+Live Demo: https://ycmsoft.github.io/cg/src/asgn0.html  
+Vector Tests: https://ycmsoft.github.io/cg/lib/vectorTests.html  
 
 # Files:
 - 'src/asgn0.html' - UI/canvas
