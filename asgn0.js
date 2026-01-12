@@ -1,4 +1,7 @@
-// asgn0.js (c) 2026 Bateman
+// asgn0.js
+// Alexander Bateman
+// arbatema@ucsc.edu
+// Notes to Grader: N/A
 
 let canvas = null;
 let ctx = null;
