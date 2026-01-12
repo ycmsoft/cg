@@ -1,7 +1,8 @@
 // asgn0.js
 // Alexander Bateman
 // arbatema@ucsc.edu
-// Notes to Grader: N/A
+// Notes to Grader: 
+// ChatGPT helped with zero checks, the cos(a) range in angleBetween, and debugging handleDrawEvent() and handleDrawOperationEvent() for which it fixed with parseFloat and isFinite. 
 
 let canvas = null;
 let ctx = null;
